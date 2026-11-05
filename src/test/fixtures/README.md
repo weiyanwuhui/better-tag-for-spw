@@ -1,0 +1,1 @@
+真实歌曲歌词和加密返回内容不随公开仓库分发；DocumentSelfTest 和 InterludeSelfTest 的实曲回归需要自行提供合法夹具。

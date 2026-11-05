@@ -1,0 +1,9 @@
+This plugin includes unmodified OpenCC conversion dictionaries:
+STCharacters.txt, STPhrases.txt, TSCharacters.txt, and TSPhrases.txt.
+
+OpenCC (Open Chinese Convert)
+https://github.com/BYVoid/OpenCC
+Copyright respective OpenCC contributors.
+Licensed under the Apache License, Version 2.0; see LICENSE in this directory.
+
+Conversion code in this plugin is an independent JVM implementation.
